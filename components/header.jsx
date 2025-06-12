@@ -9,7 +9,7 @@ const navItems = [
     { linkText: 'A Equipe', href: '/image-cdn' },
     { linkText: 'Formas de Contato', href: '/edge' },
     { linkText: 'Publicações da Equipe', href: '/blobs' },
-    { linkText: 'Ajuda', href: '/classics' }
+    { linkText: 'Ajuda de navegação', href: '/classics' }
 ];
 
 export function Header() {
