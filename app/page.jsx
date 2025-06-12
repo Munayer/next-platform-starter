@@ -28,11 +28,15 @@ export default function Page() {
         <div className="flex flex-col gap-12 sm:gap-16">
             <section>
                 <ContextAlert className="mb-6" />
-                <h1 className="mb-4">Netlify Platform Starter - Next.js</h1>
-                <p className="mb-6 text-lg">Get started with Next.js and Netlify in seconds.</p>
-                <Link href="https://docs.netlify.com/frameworks/next-js/overview/" className="btn btn-lg sm:min-w-64">
-                    Read the Docs
+                <h1 className="mb-4">Munayer Advogados - Consultoria e Advocacia Especializada</h1>
+                <p className="mb-6 text-lg">Escritório fundado em 2025, por Felipe e Bernardo Munayer</p>
+                <Link href="https://www.linkedin.com/in/advmunayer/" className="btn btn-lg sm:min-w-64">
+                    LinkedIn Felipe Munayer
                 </Link>
+                <p className="mb-6 text-lg"></p>
+                <Link href="https://www.linkedin.com/in/bernardomunayer/" className="btn btn-lg sm:min-w-64">
+                    LinkedIn Bernardo Munayer
+                </Link>                
             </section>
             {!!ctx && (
                 <section className="flex flex-col gap-4">

@@ -4,12 +4,12 @@ import netlifyLogo from 'public/netlify-logo.svg';
 import githubLogo from 'public/images/github-mark-white.svg';
 
 const navItems = [
-    { linkText: 'Home', href: '/' },
-    { linkText: 'Revalidation', href: '/revalidation' },
-    { linkText: 'Image CDN', href: '/image-cdn' },
-    { linkText: 'Edge Function', href: '/edge' },
-    { linkText: 'Blobs', href: '/blobs' },
-    { linkText: 'Classics', href: '/classics' }
+    { linkText: 'Página Inicial', href: '/' },
+    { linkText: 'Áreas de atuação', href: '/revalidation' },
+    { linkText: 'A Equipe', href: '/image-cdn' },
+    { linkText: 'Formas de Contato', href: '/edge' },
+    { linkText: 'Publicações da Equipe', href: '/blobs' },
+    { linkText: 'Ajuda', href: '/classics' }
 ];
 
 export function Header() {
