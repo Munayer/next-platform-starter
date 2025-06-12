@@ -33,7 +33,7 @@ export default function Page() {
                 <Link href="https://www.linkedin.com/in/advmunayer/" className="btn btn-lg sm:min-w-64">
                     LinkedIn Felipe Munayer
                 </Link>
-                <p className="mb-6 text-lg"></p>
+                <div className="h-10"></div>
                 <Link href="https://www.linkedin.com/in/bernardomunayer/" className="btn btn-lg sm:min-w-64">
                     LinkedIn Bernardo Munayer
                 </Link>                
