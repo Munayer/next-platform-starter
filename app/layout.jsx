@@ -15,7 +15,7 @@ export default function RootLayout({ children }) {
             <head>
                 <link rel="icon" href="/favicon.svg" sizes="any" />
             </head>
-            <body className="antialiased text-white bg-gradient-to-b from-black to-gray-900">
+            <body className="antialiased text-white bg-gradient-to-b from-[#17263C] to-[#0D1A2B]">
                 <div className="flex flex-col min-h-screen px-6 bg-noise sm:px-12">
                     <div className="flex flex-col w-full max-w-5xl mx-auto grow">
                         <Header />

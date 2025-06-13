@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import Link from 'next/link';
-import netlifyLogo from 'public/munayer-advogados.svg';
+import netlifyLogo from 'public/munayer-advogados2.svg';
 import githubLogo from 'public/images/github-mark-white.svg';
 
 const navItems = [
