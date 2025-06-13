@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import Link from 'next/link';
-import netlifyLogo from 'public/munayer-logo.svg';
+import netlifyLogo from 'public/munayer-advogados.svg';
 import githubLogo from 'public/images/github-mark-white.svg';
 
 const navItems = [
@@ -9,7 +9,8 @@ const navItems = [
     { linkText: 'A Equipe', href: '/image-cdn' },
     { linkText: 'Formas de Contato', href: '/edge' },
     { linkText: 'Publicações da Equipe', href: '/blobs' },
-    { linkText: 'Ajuda de navegação', href: '/classics' }
+    { linkText: 'Ajuda de navegação', href: '/classics' },
+    { linkText: 'Sugestões', href: '/components' }
 ];
 
 export function Header() {

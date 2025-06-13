@@ -28,13 +28,13 @@ export default function Page() {
         <div className="flex flex-col gap-12 sm:gap-16">
             <section>
                 <ContextAlert className="mb-6" />
-                <h1 className="mb-4">Munayer Advogados - Consultoria e Advocacia Especializada</h1>
+                <h1 className="mb-4">Munayer Advogados. Consultoria e Advocacia Especializada</h1>
                 <p className="mb-6 text-lg">Escritório fundado em 2025, por Felipe e Bernardo Munayer</p>
-                <Link href="https://www.linkedin.com/in/advmunayer/" className="btn btn-lg sm:min-w-64">
+                <Link href="https://www.linkedin.com/in/advmunayer/" className="btn btn-lg sm:min-w-64 bg-white text-black hover:bg-gray-200 transition">
                     LinkedIn Felipe Munayer
                 </Link>
                 <div className="h-10"></div>
-                <Link href="https://www.linkedin.com/in/bernardomunayer/" className="btn btn-lg sm:min-w-64">
+                <Link href="https://www.linkedin.com/in/bernardomunayer/" className="btn btn-lg sm:min-w-64 bg-white text-black hover:bg-gray-200 transition">
                     LinkedIn Bernardo Munayer
                 </Link>                
             </section>
