@@ -4,7 +4,7 @@ import { Header } from '../components/header';
 
 export const metadata = {
     title: {
-        template: '%s | Netlify',
+        template: '%s | Munayer Advogados',
         default: 'Munayer Advogados'
     }
 };
@@ -13,7 +13,7 @@ export default function RootLayout({ children }) {
     return (
         <html lang="en">
             <head>
-                <link rel="icon" href="/favicon.svg" sizes="any" />
+                <link rel="icon" href="/favicon2.svg" sizes="any" />
             </head>
             <body className="antialiased text-white bg-gradient-to-b from-[#17263C] to-[#0D1A2B]">
                 <div className="flex flex-col min-h-screen px-6 bg-noise sm:px-12">
