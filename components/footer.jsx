@@ -8,7 +8,7 @@ export function Footer() {
                     href="https://docs.netlify.com/frameworks/next-js/overview/"
                     className="decoration-dashed text-primary underline-offset-8"
                 >
-                    Next.js on Netlify
+                    Site criado pelo Munayer Advogados, Next.js no Netlify
                 </Link>
             </p>
         </footer>
