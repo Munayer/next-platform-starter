@@ -10,12 +10,12 @@
   <line x1="200" y1="20" x2="200" y2="140" stroke="white" stroke-width="6"></line>
 
   <!-- Texto MUNAYER -->
-  <text x="250" y="55" fill="white" font-family="'League Spartan', sans-serif" font-weight="700" font-size="62" dominant-baseline="middle" text-anchor="start" letter-spacing="0">
+  <text x="250" y="60" fill="white" font-family="'League Spartan', sans-serif" font-weight="700" font-size="62" dominant-baseline="middle" text-anchor="start" letter-spacing="0">
     MUNAYER
   </text>
 
   <!-- Texto ADVOGADOS -->
-  <text x="270" y="99" fill="white" font-family="'League Spartan', sans-serif" font-weight="700" font-size="40" dominant-baseline="middle" text-anchor="start" letter-spacing="0">
+  <text x="270" y="120" fill="white" font-family="'League Spartan', sans-serif" font-weight="700" font-size="40" dominant-baseline="middle" text-anchor="start" letter-spacing="0">
     ADVOGADOS
   </text>
 </svg>
